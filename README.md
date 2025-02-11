@@ -54,6 +54,6 @@ Initial Tail Length: Modify the nTail variable in the Setup() function to change
 
 #### Note: This game is case sensitive.
 
-## Enjoy playing the Snake game!
+## *Enjoy playing the Snake game!*
 
 
